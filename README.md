@@ -6,3 +6,5 @@ Comix Gen AI is a web application that leverages the power of AI, specifically t
 3. Run first and second cell
 4. If there is any error related to pyngrok login to ngrok generate a token and replace the ngrok token and run the code again
 5. Contact Us if there is any error
+
+I have also provided the example prompts file use them to see how it works
